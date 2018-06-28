@@ -7,3 +7,8 @@
 	path = bgavarini/odoo-addons
 	url = git@github.com:bgavarini/odoo-addons.git
 	branch = v1120171028
+
+[submodule "gityopie/odoo-addons"]
+	path = gityopie/odoo-addons
+	url = git@github.com:gityopie/odoo-addons.git
+	branch = v1120171028
