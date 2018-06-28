@@ -27,3 +27,8 @@
 	path = odoonz/misc-gityopie
 	url = git@github.com:odoonz/misc-gityopie.git
 	branch = waypoints
+
+[submodule "be-cloud-be/odoo-addons"]
+	path = be-cloud-be/odoo-addons
+	url = git@github.com:be-cloud-be/odoo-addons.git
+	branch = 11.0
