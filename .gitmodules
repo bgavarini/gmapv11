@@ -17,3 +17,8 @@
 	path = Idealisconsulting/odoo-addons
 	url = git@github.com:Idealisconsulting/odoo-addons.git
 	branch = 11.0
+
+[submodule "0k/web_google_map"]
+	path = 0k/web_google_map
+	url = git@github.com:0k/web_google_map.git
+	branch = master
