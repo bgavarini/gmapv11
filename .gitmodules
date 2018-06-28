@@ -12,3 +12,8 @@
 	path = gityopie/odoo-addons
 	url = git@github.com:gityopie/odoo-addons.git
 	branch = v1120171028
+
+[submodule "Idealisconsulting/odoo-addons"]
+	path = Idealisconsulting/odoo-addons
+	url = git@github.com:Idealisconsulting/odoo-addons.git
+	branch = 11.0
