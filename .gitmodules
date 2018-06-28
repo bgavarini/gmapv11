@@ -22,3 +22,8 @@
 	path = 0k/web_google_map
 	url = git@github.com:0k/web_google_map.git
 	branch = master
+
+[submodule "odoonz/misc-gityopie"]
+	path = odoonz/misc-gityopie
+	url = git@github.com:odoonz/misc-gityopie.git
+	branch = waypoints
