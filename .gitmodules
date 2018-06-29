@@ -2,3 +2,8 @@
 	path = captivea/odoo_addons_demo_v11
 	url = git@github.com:captivea/odoo_addons_demo_v11.git
 	branch = dev
+
+[submodule "Idealisconsulting/odoo-addons"]
+	path = Idealisconsulting/odoo-addons
+	url = git@github.com:Idealisconsulting/odoo-addons.git
+	branch = master
